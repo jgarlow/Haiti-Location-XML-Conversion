@@ -1,0 +1,6 @@
+
+A simple PHP script that takes a category ID for a http://haiti.ushahidi.com/
+category (See http://haiti.ushahidi.com/api?task=categories for a complete list)
+and converts the feeds it receives into a format to be used with 
+Open Street Map.  
+
